@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Compose Basics Codelab</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="welcome_compose_basics_codelab">Welcome to the Compose Basics Codelab!</string>
+    <string name="continue_button">Continue</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet. Est autem quia aut repellendus excepturi sed voluptas dolorum ut ratione voluptatem. Et maxime autem 33 alias deserunt est nesciunt odit.</string>
 </resources>
